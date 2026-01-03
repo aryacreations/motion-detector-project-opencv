@@ -1,4 +1,4 @@
-# Motion Detection Application 🎥
+# Motion Detection Application 
 
 A real-time motion detection system that uses OpenCV to detect and highlight moving objects from your webcam feed.
 
