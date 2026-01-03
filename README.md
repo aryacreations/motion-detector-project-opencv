@@ -2,7 +2,7 @@
 
 A real-time motion detection system that uses OpenCV to detect and highlight moving objects from your webcam feed.
 
-## Features ✨
+## Features 
 
 - **Real-time Motion Detection**: Detects moving objects using advanced background subtraction
 - **Visual Feedback**: Draws bounding boxes and contours around detected motion
